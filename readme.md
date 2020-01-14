@@ -153,5 +153,6 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Florian Kapfenberger](https://phiilu.com/uses) — Frontend developer from Austria who likes to create modern applications with React (Native)
 * [Jeff Wen](https://sinchang.me/uses) — Web Developer, Open Source Contributor
 * [Jeff Wen1](https://sinchang.me/uses) — Web Developer, Open Source Contributor
+* [Jeff Wen2](https://sinchang.me/uses) — Web Developer, Open Source Contributor
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
