@@ -23,7 +23,7 @@ jobs:
         node ./scripts/populate-readme.js
         mv generated-readme.md readme.md
         git add readme.md
-        git config --local user.email "action@github.com"
+        git config --local user.email "actions@github.com"
         git config --local user.name "github-actions"
         git commit -m "chore: generate \`readme.md\`"
     - name: Push changes
