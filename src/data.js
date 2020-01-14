@@ -2343,7 +2343,8 @@ const pages = [
       'Vue',
       'React',
       'Node',
-      'Python'
+      'Python',
+      'Jenkins',
     ],
   },
 ];
